@@ -3,7 +3,9 @@
   "short_name": "Yunnan",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#faf9f7",
-  "theme_color": "#c2583a",
+  "theme_color": "#1a1a2e",
+  "background_color": "#fafaf8",
+  "description": "Interactive deep-dive travel guide for Yunnan, China — Lijiang, Tiger Leaping Gorge, Shaxi, Dali. March 8–15, 2026.",
+  "lang": "en",
   "icons": []
 }
