@@ -1,0 +1,9 @@
+{
+  "name": "雲南 Yunnan Guide",
+  "short_name": "Yunnan",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#faf9f7",
+  "theme_color": "#c2583a",
+  "icons": []
+}
